@@ -1,0 +1,1 @@
+./VerthashMiner --gen-verthash-data verthash.dat

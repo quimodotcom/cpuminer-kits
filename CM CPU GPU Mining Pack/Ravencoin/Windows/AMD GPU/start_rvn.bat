@@ -1,0 +1,1 @@
+nbminer -a kawpow -o stratum+tcp://stratum.coinminerz.com:3365 -u RB8negNzXAspXbHg4CDc1yqRB6Tpi7FRGz -p x

@@ -1,0 +1,1 @@
+./VerthashMiner -u 3NVuRTXj9ZK7Lk3QmPX1gHwPF2fwcr7jpD -p x -o stratum+tcp://stratum.coinminerz.com:3364 --verthash-data your_path/verthash.dat --all-cl-devices --all-cu-devices
